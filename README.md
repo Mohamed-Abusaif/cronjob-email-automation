@@ -36,13 +36,6 @@ This project demonstrates how to use **Node.js** in conjunction with the **node-
 - Ensures timely communication without manual reminders.
 - Scalable to accommodate additional recipients or different schedules.
 
-## Next Steps
-
-1. Install necessary dependencies using npm.
-2. Configure the email server and credentials.
-3. Write the logic for generating and sending weekly updates.
-4. Set up the cron job with `node-cron` to schedule the task.
-
 ## Additional Resources
 
 - [Node.js Documentation](https://nodejs.org/en/docs/)
