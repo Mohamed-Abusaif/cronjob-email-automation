@@ -1,7 +1,7 @@
 // Import Necessary Routes
-const testRoutes = require("../routes/testRoutes");
+const authRoutes = require("../routes/authRoutes");
 
 // Function to apply routes
 module.exports = (app) => {
-  app.use("/api", testRoutes);
+  app.use("/api/auth", authRoutes);
 };
